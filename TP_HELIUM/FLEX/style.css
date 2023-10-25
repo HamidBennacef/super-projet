@@ -31,7 +31,7 @@ nav {
     /* le aligns items center permet de centrer Verticalement le bail */
     align-items: center;
     /* ces trois élément au dessus sont un peu la base du display flex */
-    padding: 10px 20px;
+    padding: 40px 20px;
 }
 
 nav ul {
